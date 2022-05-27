@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TomBarthelemy
 - 👀 I’m interested in web technologies, movies, video games
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tom.barthelemy.nc@gmail.com
 
 <!---
